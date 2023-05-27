@@ -4,26 +4,26 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-gregorini-72852717b/)
 
 <picture >
-<source height=220px
+<source height=200px
   srcset="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&theme=dark&rank_icon=github&count_private"
   media="(prefers-color-scheme: dark)"
 />
-<source height=220px
+<source height=200px
   srcset="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img height=220px src="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private" />
+<img height=200px src="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private" />
 </picture>
 <picture>
-<source height=220px
+<source height=200px
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
-<source height=220px
+<source height=200px
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img height=220px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut" />
+<img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut" />
 </picture>
 <h2>Técnologias Que Uso</h2>
 <div style="display: inline_block">
@@ -36,6 +36,14 @@
 </div>
 <br/>
 <h1 style="font-family:	Times New Roman;"><strong>Principais Projetos</strong></h1>
+
+<h2 style="text-decoration: underline">Aplicação Web - Sistema de Hotel</h2>
+<p>Aplicação Web que gerencia todos os aspectos de um hotel, desde o cadastro dos usuários até as reservas de quartos  oferecidos. Atualmente em Desenvolvimento.</p>
+<p><b style="color:#2a4641">Funcionalidades:</b> Gerenciamento do cadastro de clientes, Reserva de quartos, Gerenciamento dos quartos</p>
+<p><b style="color:#860202">Técnologias Utilizadas:</b> Html, CSS, JavaScript, PhP, Apache, Mysql</p>
+
+<p><b style="color:#2AC8AE">Repositório:</b> <a href="https://github.com/jvg21/Projeto_XpCriativa">Ir Para O Repositório</a></p>
+
 <h2 style="text-decoration: underline">Aplicação Web - Agendamento de Procedimentos Estéticos</h2>
 <p>Aplicação Web que gerencia todo um sitema de uma clinica de estética, foi desenvolviva como projeto final do curso técnico de Desenvolvimento de Software pelo Senai.</p>
 <p><b style="color:#2a4641">Funcionalidades:</b> Gerenciamento do cadastro de clientes e funcionários, Gestão dos Agendamentos feito pelos cliente e geração de relatórios</p>
@@ -46,6 +54,3 @@
 <a href="https://www.linkedin.com/in/wellington-telles-cunha-76103b18/">Wellington Telles Cunha</a> e 
 <a href="https://www.linkedin.com/in/sergio-luiz-da-silveira-82848a121/">Sérgio Luiz da Silveira</a></p>
 
-<h2>Aplicação Web - Sistema de Hotel</h2>
-<h2>Aplicação Web - Agendamento de Procedimentos Estéticos</h2>
-<p></p>
