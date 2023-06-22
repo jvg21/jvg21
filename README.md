@@ -54,3 +54,10 @@
 <a href="https://www.linkedin.com/in/wellington-telles-cunha-76103b18/">Wellington Telles Cunha</a> e 
 <a href="https://www.linkedin.com/in/sergio-luiz-da-silveira-82848a121/">Sérgio Luiz da Silveira</a></p>
 
+<h2 style="text-decoration: underline">Aplicação Java - Simulador de Campeonato de Futebol</h2>
+<p>Aplicação em Java que simula os aspectos de um campeonato de futebol.</p>
+<p><b style="color:#2a4641">Funcionalidades:</b> Simular partidas de futebol com narração e balancemento dos Times, Permite ao jogador escolher um time para acompanhar durante a temporada</p>
+<p><b style="color:#860202">Técnologias Utilizadas:</b> Java</p>
+
+<p><b style="color:#2AC8AE">Repositório:</b> <a href="https://github.com/GuilhermeTEREZIN/TEREZINNZINZIN">Ir Para O Repositório</a></p>
+
