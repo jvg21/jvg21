@@ -27,6 +27,7 @@
 </picture>
 <h2>Technologies I use</h2>
 <div style="display: inline_block">
+  <img align="center" alt="Ireact"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="IAngular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white">
   <img align="center" alt="IMysql"  src="https://img.shields.io/badge/MySQL-ffa500?style=for-the-badge&logo=mysql&logoColor=black">
   <img align="center" alt="IPHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
