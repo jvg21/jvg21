@@ -25,7 +25,7 @@
 />
 <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut" />
 </picture>
-<h2>Técnologias Que Uso</h2>
+<h2>Technologies I use</h2>
 <div style="display: inline_block">
   <img align="center" alt="IAngular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white">
   <img align="center" alt="IMysql"  src="https://img.shields.io/badge/MySQL-ffa500?style=for-the-badge&logo=mysql&logoColor=black">
@@ -37,14 +37,14 @@
   <img align="center" alt="IPython"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br/>
-<h1 style="font-family:	Times New Roman;"><strong>Principais Projetos</strong></h1>
+<h1 style="font-family:	Times New Roman;"><strong>Main Projects</strong></h1>
 
-<h2 style="text-decoration: underline">Aplicação Web - Sistema de Hotel</h2>
-<p>Aplicação Web que gerencia todos os aspectos de um hotel, desde o cadastro dos usuários até as reservas de quartos  oferecidos. Atualmente em Desenvolvimento.</p>
-<p><b style="color:#2a4641">Funcionalidades:</b> Gerenciamento do cadastro de clientes, Reserva de quartos, Gerenciamento dos quartos</p>
-<p><b style="color:#860202">Técnologias Utilizadas:</b> Html, CSS, JavaScript, PhP, Apache, Mysql</p>
+<h2 style="text-decoration: underline">Web Application - Hotel System</h2>
+<p>Web application that manages all aspects of a hotel, from user registration to room reservations.</p>
+<p><b style="color:#2a4641">Functionalities:</b> Customer registration management, Room reservations, Room management</p>
+<p><b style="color:#860202">Technologies used:</b> Html, CSS, JavaScript, PHP, Apache, Mysql</p>
 
-<p><b style="color:#2AC8AE">Repositório:</b> <a href="https://github.com/jvg21/Projeto_XpCriativa">Ir Para O Repositório</a></p>
+<p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/jvg21/Projeto_XpCriativa">Go To Repository</a></p>
 
 <h2 style="text-decoration: underline">Aplicação Web - Agendamento de Procedimentos Estéticos</h2>
 <p>Aplicação Web que gerencia todo um sitema de uma clinica de estética, foi desenvolviva como projeto final do curso técnico de Desenvolvimento de Software pelo Senai.</p>
