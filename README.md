@@ -46,20 +46,20 @@
 
 <p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/jvg21/Projeto_XpCriativa">Go To Repository</a></p>
 
-<h2 style="text-decoration: underline">Aplicação Web - Agendamento de Procedimentos Estéticos</h2>
-<p>Aplicação Web que gerencia todo um sitema de uma clinica de estética, foi desenvolviva como projeto final do curso técnico de Desenvolvimento de Software pelo Senai.</p>
-<p><b style="color:#2a4641">Funcionalidades:</b> Gerenciamento do cadastro de clientes e funcionários, Gestão dos Agendamentos feito pelos cliente e geração de relatórios</p>
-<p><b style="color:#860202">Técnologias Utilizadas:</b> Html, CSS, JavaScript, PhP, Apache, Mysql</p>
+<h2 style="text-decoration: underline">Web Application - Scheduling Aesthetic Procedures</h2>
+<p>Web application that manages the entire system of an aesthetic clinic. It was developed as the final project of the technical course in Software Development at Senai.</p>
+<p><b style="color:#2a4641">Functionalities:</b> Management of client and employee registration, management of appointments made by clients and generation of reports.</p>
+<p><b style="color:#860202">Technologies used:</b> Html, CSS, JavaScript, PhP, Apache, Mysql</p>
 
-<p><b style="color:#2AC8AE">Repositório:</b> <a href="https://github.com/jvg21/SA_Senai">Ir Para O Repositório</a></p>
-<p><b style="color:#330077">Professores:</b> 
+<p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/jvg21/SA_Senai">Go to Repository</a></p>
+<p><b style="color:#330077">Teachers:</b> 
 <a href="https://www.linkedin.com/in/wellington-telles-cunha-76103b18/">Wellington Telles Cunha</a> e 
 <a href="https://www.linkedin.com/in/sergio-luiz-da-silveira-82848a121/">Sérgio Luiz da Silveira</a></p>
 
-<h2 style="text-decoration: underline">Aplicação Java - Simulador de Campeonato de Futebol</h2>
-<p>Aplicação em Java que simula os aspectos de um campeonato de futebol.</p>
-<p><b style="color:#2a4641">Funcionalidades:</b> Simular partidas de futebol com narração e balancemento dos Times, Permite ao jogador escolher um time para acompanhar durante a temporada</p>
-<p><b style="color:#860202">Técnologias Utilizadas:</b> Java</p>
+<h2 style="text-decoration: underline">Java Application - Football Championship Simulator</h2>
+<p>Java application that simulates the aspects of a soccer championship.</p>
+<p><b style="color:#2a4641">Functionalities:</b> Simulate soccer matches with narration and team balance, Allows the player to choose a team to follow during the season.</p>
+<p><b style="color:#860202">Technologies used:</b> Java, Java swift</p>
 
-<p><b style="color:#2AC8AE">Repositório:</b> <a href="https://github.com/GuilhermeTEREZIN/TEREZINNZINZIN">Ir Para O Repositório</a></p>
+<p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/GuilhermeTEREZIN/TEREZINNZINZIN">Go To Repository</a></p>
 
