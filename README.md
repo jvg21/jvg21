@@ -57,7 +57,7 @@
 <a href="https://www.linkedin.com/in/wellington-telles-cunha-76103b18/">Wellington Telles Cunha</a> e 
 <a href="https://www.linkedin.com/in/sergio-luiz-da-silveira-82848a121/">Sérgio Luiz da Silveira</a></p>
 
-<h2 style="text-decoration: underline">Java Application - Football Championship Simulator</h2>
+<h2 style="text-decoration: underline">Java Application - Soccer Championship Simulator</h2>
 <p>Java application that simulates the aspects of a soccer championship.</p>
 <p><b style="color:#2a4641">Functionalities:</b> Simulate soccer matches with narration and team balance, Allows the player to choose a team to follow during the season.</p>
 <p><b style="color:#860202">Technologies used:</b> Java, Java swift</p>
