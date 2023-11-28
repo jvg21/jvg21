@@ -26,7 +26,8 @@
 <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut" />
 </picture>
 <h2>Technologies I use</h2>
-<div style="display: inline_block">
+<div style="display: inline_block"> 
+  <img align="center" alt="ITypescript"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Ireact"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="IAngular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white">
   <img align="center" alt="IMysql"  src="https://img.shields.io/badge/MySQL-ffa500?style=for-the-badge&logo=mysql&logoColor=black">
