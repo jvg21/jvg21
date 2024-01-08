@@ -67,7 +67,7 @@
   <li>Choose a team to follow during multiple seasons</li>
 </ul>
 </p>
-<p><b style="color:#860202">Technologies:</b> Java, Java swift</p>
+<p><b style="color:#860202">Technologies:</b> Java</p>
 
 <p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/GuilhermeTEREZIN/TEREZINNZINZIN">Go To Repository</a></p>
 
