@@ -49,7 +49,7 @@
 <p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/jvg21/Projeto_XpCriativa">Go To Repository</a></p>
 
 <h2 style="text-decoration: underline">Web Application - Scheduling Aesthetic Procedures</h2>
-<p>Web application that manages the entire system of an aesthetic clinic. It was developed as the final project of the technical course in Software Development at Senai.</p>
+<p>Web application that manages the system of an aesthetic clinic. It was developed as the final project of the technical course in Software Development at Senai.</p>
 <p><b style="color:#2a4641">Functionalities:</b> Management of client and employee registration, management of appointments made by clients and generation of reports.</p>
 <p><b style="color:#860202">Technologies:</b> Html, CSS, JavaScript, PhP, Apache, Mysql</p>
 
