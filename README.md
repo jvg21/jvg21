@@ -59,8 +59,16 @@
 <a href="https://www.linkedin.com/in/sergio-luiz-da-silveira-82848a121/">Sérgio Luiz da Silveira</a></p>
 
 <h2 style="text-decoration: underline">Java Application - Soccer Championship Simulator</h2>
-<p>Java application that simulates the aspects of a soccer championship.</p>
-<p><b style="color:#2a4641">Functionalities:</b> Simulate soccer matches with narration and team balance, Allows the player to choose a team to follow during the season.</p>
+<p>Java application that simulates the Brazilian soccer championship.</p>
+<p><b style="color:#2a4641">Functionalities:</b>
+<ul>
+  <li>Simulated soccer matches</li>
+  <li>Narration of the match</li>
+  <li>See the result of all matches</li>
+  <li>Multiple Seasons</li>
+  <li>Choose a team to follow during the season</li>
+</ul>
+</p>
 <p><b style="color:#860202">Technologies used:</b> Java, Java swift</p>
 
 <p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/GuilhermeTEREZIN/TEREZINNZINZIN">Go To Repository</a></p>
