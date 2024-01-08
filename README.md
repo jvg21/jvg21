@@ -6,7 +6,6 @@ Connect with me on
   <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-
 <picture >
 <source height=200px
   srcset="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&theme=dark&rank_icon=github&count_private"
@@ -18,6 +17,7 @@ Connect with me on
 />
 <img height=200px src="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private" />
 </picture>
+
 <picture>
 <source height=200px
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&theme=dark"
