@@ -56,8 +56,8 @@ Connect with me on
 <p><b style="color:#860202">Technologies:</b> Html, CSS, JavaScript, PhP, Apache, Mysql</p>
 <p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/jvg21/SA_Senai">Go to Repository</a></p>
 <p><b style="color:#330077">Teachers:</b> 
-<a href="https://www.linkedin.com/in/wellington-telles-cunha-76103b18/">Wellington Telles Cunha</a> e 
-<a href="https://www.linkedin.com/in/sergio-luiz-da-silveira-82848a121/">Sérgio Luiz da Silveira</a></p>
+<a href="https://www.linkedin.com/in/wellington-telles-cunha-76103b18/" target="_blank">Wellington Telles Cunha</a> e 
+<a href="https://www.linkedin.com/in/sergio-luiz-da-silveira-82848a121/" target="_blank">Sérgio Luiz da Silveira</a></p>
 
 <h2 style="text-decoration: underline">Java Application - Soccer Championship Simulator</h2>
 <p>A Java application that simulates the Brazilian soccer championship, allowing users to follow teams through multiple seasons and view simulated match results.</p>
