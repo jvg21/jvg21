@@ -39,47 +39,19 @@
   <img align="center" alt="IPython"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br/>
-<h1 style="font-family:	Times New Roman;"><strong>Main Projects</strong></h1>
+## Main Projects
 
-<h2 style="text-decoration: underline">Web Application - Hotel System</h2>
-<p>Web application that manages aspects of a hotel</p>
-<p><b style="color:#2a4641">Functionalities:</b> 
-<ul>
-  <li>Customer registration management</li>
-  <li>Room reservations</li> 
-  <li>Room management</li>
-</ul>
-</p>
-<p><b style="color:#860202">Technologies:</b> Html, CSS, JavaScript, PHP, Apache, Mysql</p>
+### Web Application - Hotel System
+A web application that manages various aspects of a hotel, including customer registration, room reservations, and room management.
+**Technologies:** HTML, CSS, JavaScript, PHP, Apache, MySQL
+[Go To Repository](https://github.com/jvg21/Projeto_XpCriativa)
 
-<p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/jvg21/Projeto_XpCriativa">Go To Repository</a></p>
+### Web Application - Scheduling Aesthetic Procedures
+Developed as the final project of my technical course, this web application manages an aesthetic clinic's system, handling customer and employee records, service requests, and report generation.
+**Technologies:** HTML, CSS, JavaScript, PHP, Apache, MySQL
+[Go to Repository](https://github.com/jvg21/SA_Senai)
 
-<h2 style="text-decoration: underline">Web Application - Scheduling Aesthetic Procedures</h2>
-<p>Web application that manages the system of an aesthetic clinic. It was developed as the final project of the technical course in Software Development at Senai.</p>
-<p><b style="color:#2a4641">Functionalities:</b> 
-<ul>
-  <li>Management of customer and employee records</li>
-  <li>Management of services requested by customers</li>
-  <li>Generation of reports</li>
-</ul>
-</p>
-<p><b style="color:#860202">Technologies:</b> Html, CSS, JavaScript, PhP, Apache, Mysql</p>
-
-<p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/jvg21/SA_Senai">Go to Repository</a></p>
-<p><b style="color:#330077">Teachers:</b> 
-<a href="https://www.linkedin.com/in/wellington-telles-cunha-76103b18/">Wellington Telles Cunha</a> e 
-<a href="https://www.linkedin.com/in/sergio-luiz-da-silveira-82848a121/">Sérgio Luiz da Silveira</a></p>
-
-<h2 style="text-decoration: underline">Java Application - Soccer Championship Simulator</h2>
-<p>Java application that simulates the Brazilian soccer championship.</p>
-<p><b style="color:#2a4641">Functionalities:</b>
-<ul>
-  <li>Simulated soccer matches with narration</li>
-  <li>See the result of all matches</li>
-  <li>Choose a team to follow during multiple seasons</li>
-</ul>
-</p>
-<p><b style="color:#860202">Technologies:</b> Java</p>
-
-<p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/GuilhermeTEREZIN/TEREZINNZINZIN">Go To Repository</a></p>
-
+### Java Application - Soccer Championship Simulator
+A Java application that simulates the Brazilian soccer championship, allowing users to follow teams through multiple seasons and view simulated match results.
+**Technologies:** Java
+[Go To Repository](https://github.com/GuilhermeTEREZIN/TEREZINNZINZIN)
