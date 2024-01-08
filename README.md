@@ -44,14 +44,14 @@
 <h2 style="text-decoration: underline">Web Application - Hotel System</h2>
 <p>Web application that manages all aspects of a hotel, from user registration to room reservations.</p>
 <p><b style="color:#2a4641">Functionalities:</b> Customer registration management, Room reservations, Room management</p>
-<p><b style="color:#860202">Technologies used:</b> Html, CSS, JavaScript, PHP, Apache, Mysql</p>
+<p><b style="color:#860202">Technologies:</b> Html, CSS, JavaScript, PHP, Apache, Mysql</p>
 
 <p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/jvg21/Projeto_XpCriativa">Go To Repository</a></p>
 
 <h2 style="text-decoration: underline">Web Application - Scheduling Aesthetic Procedures</h2>
 <p>Web application that manages the entire system of an aesthetic clinic. It was developed as the final project of the technical course in Software Development at Senai.</p>
 <p><b style="color:#2a4641">Functionalities:</b> Management of client and employee registration, management of appointments made by clients and generation of reports.</p>
-<p><b style="color:#860202">Technologies used:</b> Html, CSS, JavaScript, PhP, Apache, Mysql</p>
+<p><b style="color:#860202">Technologies:</b> Html, CSS, JavaScript, PhP, Apache, Mysql</p>
 
 <p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/jvg21/SA_Senai">Go to Repository</a></p>
 <p><b style="color:#330077">Teachers:</b> 
@@ -62,14 +62,12 @@
 <p>Java application that simulates the Brazilian soccer championship.</p>
 <p><b style="color:#2a4641">Functionalities:</b>
 <ul>
-  <li>Simulated soccer matches</li>
-  <li>Narration of the match</li>
+  <li>Simulated soccer matches with narration</li>
   <li>See the result of all matches</li>
-  <li>Multiple Seasons</li>
-  <li>Choose a team to follow during the season</li>
+  <li>Choose a team to follow during multiple seasons</li>
 </ul>
 </p>
-<p><b style="color:#860202">Technologies used:</b> Java, Java swift</p>
+<p><b style="color:#860202">Technologies:</b> Java, Java swift</p>
 
 <p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/GuilhermeTEREZIN/TEREZINNZINZIN">Go To Repository</a></p>
 
