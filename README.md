@@ -20,14 +20,14 @@ Connect with me on
 
 <picture>
 <source height=220px
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&theme=dark&langs_count=6"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=pie&theme=dark&langs_count=6"
   media="(prefers-color-scheme: dark)"
 />
 <source height=220px
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&langs_count=6"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=pie&langs_count=6"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img height=220px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&langs_count=6" />
+<img height=220px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=pie&langs_count=6" />
 </picture>
 <!-- <h2>Technologies I use</h2> -->
 <div style="display: inline_block"> 
