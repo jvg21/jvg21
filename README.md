@@ -7,11 +7,11 @@ Connect with me on
 </a>
 
 <picture >
-<source height=200px
+<source height=220px
   srcset="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&theme=dark&rank_icon=github&count_private"
   media="(prefers-color-scheme: dark)"
 />
-<source height=200px
+<source height=220px
   srcset="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
@@ -19,15 +19,15 @@ Connect with me on
 </picture>
 
 <picture>
-<source height=200px
+<source height=220px
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&theme=dark&langs_count=6"
   media="(prefers-color-scheme: dark)"
 />
-<source height=200px
+<source height=220px
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&langs_count=6"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&langs_count=6" />
+<img height=220px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&langs_count=6" />
 </picture>
 <!-- <h2>Technologies I use</h2> -->
 <div style="display: inline_block"> 
