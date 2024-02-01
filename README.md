@@ -29,7 +29,7 @@ Connect with me on
 />
 <img height=220px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&langs_count=6" />
 </picture>
-<!-- <h2>Technologies I use</h2> -->
+<h2>Technologies I use</h2>
 <div style="display: inline_block"> 
   <img align="center" alt="IJS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="ITypescript"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
