@@ -1,65 +1,97 @@
-### <h1>Hello, I'm João Gregorini😎</h1>
+<h1 align="center">Hi there, I'm João Gregorini 👋</h1>
 
-<!---[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:XXXXX.com)-->
-Connect with me on 
-<a href="https://www.linkedin.com/in/joão-gregorini-72852717b/" target="_blank">
-  <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<h3 align="center">Software Developer | JavaScript · TypeScript · React · Python</h3>
 
-<picture >
-<source height=220px
-  srcset="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&theme=dark&rank_icon=github&count_private"
-  media="(prefers-color-scheme: dark)"
-/>
-<source height=220px
-  srcset="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height=220px src="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private" />
-</picture>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joão-gregorini-72852717b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/jvg21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<picture>
-<source height=220px
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&theme=dark&langs_count=6&hide=css"
-  media="(prefers-color-scheme: dark)"
-/>
-<source height=220px
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&langs_count=6&hide=css"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height=220px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&langs_count=6&hide=css" />
-</picture>
-<h2>Technologies I use</h2>
-<div style="display: inline_block"> 
-  <img align="center" alt="IJS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="ITypescript"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Ireact"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<!--   <img align="center" alt="IAngular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white"> -->
-<!--   <img align="center" alt="IMysql"  src="https://img.shields.io/badge/MySQL-ffa500?style=for-the-badge&logo=mysql&logoColor=black"> -->
-<!--   <img align="center" alt="IPHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> -->
-<!--   <img align="center" alt="IHTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="ICSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> -->
-<!--   <img align="center" alt="IJava"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> -->
-  <img align="center" alt="IPython"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div>
-<br/>
+---
 
-<h1 style="font-family:	Times New Roman;"><strong>Main Projects</strong></h1>
+### 🚀 About Me
 
-<h2 style="text-decoration: underline">Web Application - Hotel System</h2>
-<p>A web application that manages various aspects of a hotel, including customer registration, room reservations, and room management.</p>
-<p><b style="color:#860202">Technologies:</b> Html, CSS, JavaScript, PHP, Apache, Mysql</p>
-<p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/jvg21/Projeto_XpCriativa">Go To Repository</a></p>
+- 💻 Developer working with **web applications** — from full-stack systems to simulation tools
+- 🌱 Constantly leveling up in **JavaScript / TypeScript / React** and **Python**
+- 🏗️ I enjoy building systems that solve real, practical problems — hotel management, appointment scheduling, simulations
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/joão-gregorini-72852717b/)
 
-<h2 style="text-decoration: underline">Web Application - Scheduling Aesthetic Procedures</h2>
-<p>Developed as the final project of my technical course, this web application manages an aesthetic clinic's system, handling customer and employee records, service requests, and report generation.</p>
-<p><b style="color:#860202">Technologies:</b> Html, CSS, JavaScript, PhP, Apache, Mysql</p>
-<p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/jvg21/SA_Senai">Go to Repository</a></p>
-<p><b style="color:#330077">Teachers:</b> 
-<a href="https://www.linkedin.com/in/wellington-telles-cunha-76103b18/" target="_blank">Wellington Telles Cunha</a> e 
-<a href="https://www.linkedin.com/in/sergio-luiz-da-silveira-82848a121/" target="_blank">Sérgio Luiz da Silveira</a></p>
+---
 
-<h2 style="text-decoration: underline">Java Application - Soccer Championship Simulator</h2>
-<p>A Java application that simulates the Brazilian soccer championship, allowing users to follow teams through multiple seasons and view simulated match results.</p>
-<p><b style="color:#860202">Technologies:</b> Java</p>
-<p><b style="color:#2AC8AE">Repository:</b> <a href="https://github.com/GuilhermeTEREZIN/TEREZINNZINZIN">Go To Repository</a></p>
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source height="180px" srcset="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&theme=dark&rank_icon=github&count_private=true" media="(prefers-color-scheme: dark)"/>
+    <source height="180px" srcset="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private=true" alt="João's GitHub stats"/>
+  </picture>
+  <picture>
+    <source height="180px" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&theme=dark&langs_count=6&hide=css" media="(prefers-color-scheme: dark)"/>
+    <source height="180px" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&langs_count=6&hide=css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&langs_count=6&hide=css" alt="Top Languages"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvg21&theme=dark&hide_border=true" alt="GitHub Streak" height="180px"/>
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🏨 Hotel Management System</h4>
+      <p>Web application to manage a hotel's operations, including guest registration, room reservations, and room availability control.</p>
+      <p><b>Stack:</b> HTML · CSS · JavaScript · PHP · Apache · MySQL</p>
+      <a href="https://github.com/jvg21/Projeto_XpCriativa">🔗 View Repository</a>
+    </td>
+    <td width="50%">
+      <h4>💅 Aesthetic Clinic Scheduling System</h4>
+      <p>Final project of my technical course. Manages an aesthetic clinic's operations — client and employee records, service requests, and report generation.</p>
+      <p><b>Stack:</b> HTML · CSS · JavaScript · PHP · Apache · MySQL</p>
+      <a href="https://github.com/jvg21/SA_Senai">🔗 View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>⚽ Soccer Championship Simulator</h4>
+      <p>Java application that simulates the Brazilian soccer championship, letting users follow teams across multiple seasons and view simulated match results.</p>
+      <p><b>Stack:</b> Java</p>
+      <a href="https://github.com/GuilhermeTEREZIN/TEREZINNZINZIN">🔗 View Repository</a>
+    </td>
+    <td width="50%">
+      <h4>✨ Your next project here</h4>
+      <p>Add your latest work — a README stays alive when it grows with you.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! Feel free to reach out or check out my repositories. 🚀</i>
+</p>
