@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 💻 Developer working with **web applications** — from full-stack systems to simulation tools
-- 🌱 Constantly leveling up in **JavaScript / TypeScript / React** and **Python**
+- 🌱 Constantly leveling up in **JavaScript / TypeScript / C#** and **Python**
 - 🏗️ I enjoy building systems that solve real, practical problems — hotel management, appointment scheduling, simulations
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/joão-gregorini-72852717b/)
 
@@ -27,13 +27,14 @@
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> -->
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white" alt="C#"/>
+  <!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> -->
+  <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/> -->
 </p>
 
 ---
@@ -41,24 +42,27 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  
   <picture>
-    <source height="180px" srcset="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&theme=dark&rank_icon=github&count_private=true" media="(prefers-color-scheme: dark)"/>
-    <source height="180px" srcset="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jvg21&show_icons=true&rank_icon=github&count_private=true" alt="João's GitHub stats"/>
+    <source height="180px" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=jvg21&layout=donut-vertical&langs_count=4&theme=transparent&hide=css" media="(prefers-color-scheme: dark)"/>
+    <source height="180px" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=jvg21&layout=donut-vertical&langs_count=4&theme=transparent&hide=css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img height="180px" src="https://github-stats-extended.vercel.app/api/top-langs?username=jvg21&layout=donut-vertical&langs_count=4&theme=transparent&hide=css" alt="Top Languages"/>
   </picture>
-  <picture>
-    <source height="180px" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&theme=dark&langs_count=6&hide=css" media="(prefers-color-scheme: dark)"/>
-    <source height="180px" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&langs_count=6&hide=css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvg21&layout=donut&langs_count=6&hide=css" alt="Top Languages"/>
+
+
+   <picture>
+    <source height="180px" srcset="https://github-stats-extended.vercel.app/api?username=jvg21&rank_icon=github&hide_title=true&include_all_commits=true&theme=transparent" media="(prefers-color-scheme: dark)"/>
+    <source height="180px" srcset="https://github-stats-extended.vercel.app/api?username=jvg21&rank_icon=github&hide_title=true&include_all_commits=true&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img height="180px" src="https://github-stats-extended.vercel.app/api?username=jvg21&rank_icon=github&hide_title=true&include_all_commits=true&theme=transparent" alt="Top Languages"/>
   </picture>
+
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvg21&theme=dark&hide_border=true" alt="GitHub Streak" height="180px"/>
-</p>
+
 
 ---
-
+<!-- 
 ### 🌟 Featured Projects
 
 <table>
@@ -88,7 +92,7 @@
       <p>Add your latest work — a README stays alive when it grows with you.</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
