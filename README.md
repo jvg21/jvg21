@@ -44,15 +44,15 @@
 <p align="center">
   
   <picture>
-    <source height="280px" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=jvg21&layout=donut-vertical&langs_count=4&theme=transparent&hide=css" media="(prefers-color-scheme: dark)"/>
-    <source height="280px" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=jvg21&layout=donut-vertical&langs_count=4&theme=transparent&hide=css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <source height="250px" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=jvg21&layout=donut-vertical&langs_count=4&theme=transparent&hide=css" media="(prefers-color-scheme: dark)"/>
+    <source height="250px" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=jvg21&layout=donut-vertical&langs_count=4&theme=transparent&hide=css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
     <img height="180px" src="https://github-stats-extended.vercel.app/api/top-langs?username=jvg21&layout=donut-vertical&langs_count=4&theme=transparent&hide=css" alt="Top Languages"/>
   </picture>
 
 
    <picture>
-    <source height="280px" srcset="https://github-stats-extended.vercel.app/api?username=jvg21&rank_icon=github&hide_title=true&include_all_commits=true&theme=transparent" media="(prefers-color-scheme: dark)"/>
-    <source height="280px" srcset="https://github-stats-extended.vercel.app/api?username=jvg21&rank_icon=github&hide_title=true&include_all_commits=true&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <source height="250px" srcset="https://github-stats-extended.vercel.app/api?username=jvg21&rank_icon=github&hide_title=true&include_all_commits=true&theme=transparent" media="(prefers-color-scheme: dark)"/>
+    <source height="250px" srcset="https://github-stats-extended.vercel.app/api?username=jvg21&rank_icon=github&hide_title=true&include_all_commits=true&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
     <img height="180px" src="https://github-stats-extended.vercel.app/api?username=jvg21&rank_icon=github&hide_title=true&include_all_commits=true&theme=transparent" alt="Top Languages"/>
   </picture>
 
