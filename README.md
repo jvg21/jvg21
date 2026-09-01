@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 💻 Developer working with **web applications** — from full-stack systems to simulation tools
-- 🌱 Constantly leveling up in **JavaScript / TypeScript / C#** and **Python**
+- 🌱 Constantly leveling up in ** TypeScript / C#** and **Python**
 - 🏗️ I enjoy building systems that solve real, practical problems — hotel management, appointment scheduling, simulations
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/joão-gregorini-72852717b/)
 
